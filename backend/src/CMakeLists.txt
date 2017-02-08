@@ -129,6 +129,7 @@ set (GBE_SRC
     backend/gen9_context.hpp
     backend/gen9_context.cpp
     backend/gen_program.cpp
+    backend/gen_program_elf.cpp
     backend/gen_program.hpp
     backend/gen_program.h
     backend/gen7_instruction.hpp
